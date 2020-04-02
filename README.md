@@ -2,4 +2,4 @@
 Spot to share code/etc for internal review of POP
 
 Initial conditions branch tasks:
-- Add equilibrium code to tpl from AI model for initial abundance at age
+- Add/develop code for estimates of initial abudance-at-age
