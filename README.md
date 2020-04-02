@@ -1,4 +1,7 @@
 # 2020-POP-Internal-Review
 Spot to share code/etc for internal review of POP
 
-These are the final 2019 GOA POP ADMB files, from these we can add various aspects to be included in the tpl/dat/ctl files thru the different branches
+Tasks to complete in weighting branch:
+- Add script/code to perform AI POP reweighting
+- Add D-M likelihood (linear) to estimate ESS
+- Add option to estimate inflation of index (for VAST)
