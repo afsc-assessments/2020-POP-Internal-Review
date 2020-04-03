@@ -1,4 +1,7 @@
 # 2020-POP-Internal-Review
 Spot to share code/etc for internal review of POP
 
-These are the final 2019 GOA POP ADMB files, from these we can add various aspects to be included in the tpl/dat/ctl files thru the different branches
+Tasks to be completed in input/output branch:
+- Add R function to tpl
+- Add script for plotting/tables
+- Add script for data compilation
